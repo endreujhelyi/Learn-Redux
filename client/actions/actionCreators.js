@@ -1,6 +1,6 @@
 // increment
 export const increment = (index) => ({
-  type: 'INCREMENT_LIKE',
+  type: 'INCREMENT_LIKES',
   index
 })
 
